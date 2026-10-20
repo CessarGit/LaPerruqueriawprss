@@ -1,0 +1,433 @@
+# Copyright (C) 2025 Automattic
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Koinonia 1.0.2\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/koinonia\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2025-08-22T01:18:11+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.11.0\n"
+
+#. Theme Name of the theme
+#: style.css
+msgid "Koinonia"
+msgstr ""
+
+#. Theme URI of the theme
+#: style.css
+msgid "https://themeshaper.com/koinonia/"
+msgstr ""
+
+#. Description of the theme
+#: style.css
+msgid "Koinonia is a WordPress theme designed for non-profit organizations and community-driven projects. Perfect for showcasing services and initiatives that bring people and pets together, it’s an ideal choice for those who share a passion for caring, connection, and our furry companions."
+msgstr ""
+
+#. Author of the theme
+#: style.css
+msgid "Automattic"
+msgstr ""
+
+#. Author URI of the theme
+#: style.css
+msgid "https://automattic.com"
+msgstr ""
+
+#: patterns/404.php
+msgctxt "Pattern title"
+msgid "404"
+msgstr ""
+
+#: patterns/404.php:18
+msgid "Oops..."
+msgstr ""
+
+#: patterns/404.php:22
+msgid "This page can’t be found"
+msgstr ""
+
+#: patterns/404.php:32
+msgid "It looks like nothing was found at this location. Try a search."
+msgstr ""
+
+#: patterns/archive.php
+msgctxt "Pattern title"
+msgid "archive"
+msgstr ""
+
+#: patterns/archive.php:39
+#: patterns/index.php:37
+#: patterns/search.php:47
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: patterns/footer.php
+msgctxt "Pattern title"
+msgid "footer"
+msgstr ""
+
+#. Translators: 1. is the start of a 'a' HTML element, 2. is the end of a 'a' HTML element
+#: patterns/footer.php:27
+#, php-format
+msgid "Designed with %1$sWordPress%2$s"
+msgstr ""
+
+#: patterns/header-home.php
+msgctxt "Pattern title"
+msgid "header-home"
+msgstr ""
+
+#: patterns/header-home.php:34
+#: patterns/header.php:31
+msgid "Donate"
+msgstr ""
+
+#: patterns/header-home.php:45
+msgid "Caring Together, Growing Better"
+msgstr ""
+
+#. Translators: 1. is the start of a 'strong' HTML element, 2. is the end of a 'strong' HTML element
+#: patterns/header-home.php:50
+#, php-format
+msgid "Imagine a pleasant shared space where your pets can benefit from healthy caring, and people can donate their time and contribute as caregivers to bond as a loving community. Now, welcome to the amazing %1$sPawPals%2$s."
+msgstr ""
+
+#: patterns/header.php
+msgctxt "Pattern title"
+msgid "header"
+msgstr ""
+
+#: patterns/home.php
+msgctxt "Pattern title"
+msgid "home"
+msgstr ""
+
+#: patterns/home.php:16
+msgid "A supportive experience that turns caring into community"
+msgstr ""
+
+#: patterns/home.php:27
+msgid "At PawPals, we believe in the power of community to make a positive impact on the lives of pets. Join our collaborative network of pet lovers dedicated to providing love, care, and support."
+msgstr ""
+
+#: patterns/home.php:52
+msgid "Pet Sitting"
+msgstr ""
+
+#: patterns/home.php:56
+msgid "Ensure your pet's well-being while you're away with our professional pet-sitting services."
+msgstr ""
+
+#: patterns/home.php:72
+msgid "Overnight Care"
+msgstr ""
+
+#: patterns/home.php:76
+msgid "Experience peace of mind with the overnight care services offered by the PP volunteers."
+msgstr ""
+
+#: patterns/home.php:92
+msgid "Grooming"
+msgstr ""
+
+#: patterns/home.php:96
+msgid "Treat your pets to a pampering session with our diverse grooming services."
+msgstr ""
+
+#: patterns/home.php:112
+msgid "Pet Taxi"
+msgstr ""
+
+#: patterns/home.php:116
+msgid "Our reliable pet taxi service ensures safe and comfortable journeys for your furry companions."
+msgstr ""
+
+#: patterns/home.php:142
+msgid "A passionate community of pet advocates dedicated to collaborating for the well-being of humans &amp; animals."
+msgstr ""
+
+#: patterns/home.php:146
+msgid "With a collective commitment to the welfare of pets, PetHelp Hub brings together individuals who share a common goal: ensuring every pet lives a happy and healthy life."
+msgstr ""
+
+#: patterns/home.php:155
+msgid "About Us"
+msgstr ""
+
+#: patterns/home.php:169
+msgid "Blog"
+msgstr ""
+
+#: patterns/home.php:203
+msgid "The pet taxi service made my life so much easier. It's reliable, and my pet loves the rides. Thank you, PP, excellent service!"
+msgstr ""
+
+#: patterns/home.php:207
+msgid "Alex Garfield"
+msgstr ""
+
+#. Translators: 1. is a 'br' HTML element
+#: patterns/home.php:231
+#, php-format
+msgid "Subscribe to%1$sGet our News"
+msgstr ""
+
+#: patterns/home.php:235
+msgid "PawPals invites you to be a hero for pets! Collaborate with us to create a world where no pet is left behind."
+msgstr ""
+
+#: patterns/index.php
+msgctxt "Pattern title"
+msgid "index"
+msgstr ""
+
+#: patterns/post-meta.php
+msgctxt "Pattern title"
+msgid "post-meta"
+msgstr ""
+
+#: patterns/post-meta.php:14
+msgid "—"
+msgstr ""
+
+#: patterns/search.php
+msgctxt "Pattern title"
+msgid "search"
+msgstr ""
+
+#: theme.json
+#: styles/greenwood.json
+#: styles/naval.json
+#: styles/primeval.json
+msgctxt "Duotone name"
+msgid "Default"
+msgstr ""
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "Primeval"
+msgstr ""
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "Greenwood"
+msgstr ""
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "Naval"
+msgstr ""
+
+#: theme.json
+#: styles/greenwood.json
+#: styles/naval.json
+#: styles/primeval.json
+msgctxt "Color name"
+msgid "Base"
+msgstr ""
+
+#: theme.json
+#: styles/greenwood.json
+#: styles/naval.json
+#: styles/primeval.json
+msgctxt "Color name"
+msgid "Contrast"
+msgstr ""
+
+#: theme.json
+#: styles/greenwood.json
+#: styles/naval.json
+#: styles/primeval.json
+msgctxt "Color name"
+msgid "Primary"
+msgstr ""
+
+#: theme.json
+#: styles/greenwood.json
+#: styles/naval.json
+#: styles/primeval.json
+msgctxt "Color name"
+msgid "Secondary"
+msgstr ""
+
+#: theme.json
+#: styles/greenwood.json
+#: styles/naval.json
+#: styles/primeval.json
+msgctxt "Color name"
+msgid "Tertiary"
+msgstr ""
+
+#: theme.json
+#: styles/greenwood.json
+#: styles/naval.json
+#: styles/primeval.json
+msgctxt "Color name"
+msgid "Quaternary"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "2X-Small"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "X-Small"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "Small"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "Medium"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "Large"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "X-Large"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "2X-Large"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "System Font"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Cooper"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Guggenheim Sans"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Guggenheim Sans Display"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Haskoy"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Playfair"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Plus Jakarta"
+msgstr ""
+
+#: theme.json
+#: styles/naval.json
+msgctxt "Font size name"
+msgid "Smallest"
+msgstr ""
+
+#: theme.json
+#: styles/naval.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr ""
+
+#: theme.json
+#: styles/naval.json
+msgctxt "Font size name"
+msgid "Medium"
+msgstr ""
+
+#: theme.json
+#: styles/naval.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr ""
+
+#: theme.json
+#: styles/naval.json
+msgctxt "Font size name"
+msgid "Extra Large"
+msgstr ""
+
+#: theme.json
+#: styles/naval.json
+msgctxt "Font size name"
+msgid "Double Extra Large"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header Home"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header Pages"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Also Available"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Post Meta"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Comments"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Sidebar"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer"
+msgstr ""
+
+#: styles/greenwood.json
+msgctxt "Style variation name"
+msgid "Greenwood"
+msgstr ""
+
+#: styles/naval.json
+msgctxt "Style variation name"
+msgid "Naval"
+msgstr ""
+
+#: styles/primeval.json
+msgctxt "Style variation name"
+msgid "Primeval"
+msgstr ""
